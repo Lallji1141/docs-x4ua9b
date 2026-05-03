@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-1h7or7.5depositcasino.co.nz/sitemap.xml
